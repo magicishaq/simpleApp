@@ -1,0 +1,20 @@
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="09c86f4f4f47d4a80b896afcefac4aaf">
+        <title>Sample App</title>
+    </head>
+    <body>
+        <div id="root">Not rendered</div>
+
+        <!-- npm packages
+        <script src="https://unpkg.com/react@16.8.4/umd/react.development.js" type="text/babel"></script>
+        
+        <script src="https://unpkg.com/react-dom@16.8.4/umd/react-dom.development.js" type="text/babel"></script>
+        -->
+        <script src="f27dabc287e1598a4a20c877ba3e67c9"></script>
+    </body>
+</html>
